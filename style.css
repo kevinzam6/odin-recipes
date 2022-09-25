@@ -1,0 +1,17 @@
+.heading {
+    font-family: Georgia, sans-serif;
+    text-align: center;
+    color: rgb(215, 94, 34);
+    background-color: bisque;
+}
+
+body {
+    background-color: rgb(255, 255, 240);
+}
+
+li {
+    font-size: 18px;
+    font-family: "Trebuchet MS", sans-serif;
+    color: rgb(117, 8, 8);
+    text-align: left;
+}
