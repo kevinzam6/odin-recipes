@@ -1,0 +1,27 @@
+body {
+    background-color: beige;
+}
+
+.heading {
+    color: rgb(252, 13, 13);
+    font-family:"Brush Script MT", sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+.subheading {
+    color: rgb(24, 181, 58);
+    font-family: Garamond, sans-serif;
+    font-weight: 600;
+}
+
+.text {
+    color: red;
+    font-family: Georgia, sans-serif;
+    font-weight: 600;
+}
